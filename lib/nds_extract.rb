@@ -16,8 +16,14 @@ def directors_totals(nds)
   
   while nds.each do
     new_hash[] = nds[row_index][:name]
-    row_index += 1
-  end
+    
+    while nds
+    
+    
+    
+  
+    
+    
   
   
   
