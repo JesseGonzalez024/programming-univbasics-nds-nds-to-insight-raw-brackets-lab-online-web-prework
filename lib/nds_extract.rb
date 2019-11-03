@@ -23,7 +23,7 @@ new_hash = {}
   while index1 < movies.length do 
     total += movies[index1][:worldwide_gross]
     index1 += 1
-    binding.pry
+    
   end
   
   
