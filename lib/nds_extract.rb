@@ -28,5 +28,5 @@ new_hash = {}
     new_hash[director[:name]] = total
    }   
      
-  
+  new_hash
 end
