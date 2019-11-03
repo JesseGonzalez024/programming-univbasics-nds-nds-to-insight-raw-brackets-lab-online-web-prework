@@ -5,7 +5,7 @@ require 'directors_database'
 
 pp directors_database
 
-new_hash = {}
+new_hash = {name: value}
 
 def directors_totals(nds)
 
@@ -20,7 +20,7 @@ def directors_totals(nds)
     new_hash[] = nds[row_index][:name]
     
     while nds[row_index][:movies][inner_index][:worldwide_gross].each do
-      new_hash[] = nds[row_index][:movies][inner_index][:worldwide_gross]
+      new_hash[:name] = nds[row_index][:movies][inner_index][:worldwide_gross]
       
       
     
