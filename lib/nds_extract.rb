@@ -23,7 +23,7 @@ new_hash = {}
   while index1 < movies.length do 
     
     
-    pry
+    binding.pry
   end
   
     
