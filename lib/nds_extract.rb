@@ -14,7 +14,7 @@ def directors_totals(nds)
 
   index1 = 0
   while nds.each do
-    nds[index1]
+    nds[index1] == 
   
     
      
