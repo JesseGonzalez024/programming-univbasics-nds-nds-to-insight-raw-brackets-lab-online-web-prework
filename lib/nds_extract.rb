@@ -21,7 +21,7 @@ new_hash = {}
   movies = director[:movies]
   
   while index1 < movies.length do 
-    :wo
+    
     
     binding.pry
   end
