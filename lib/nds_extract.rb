@@ -22,6 +22,7 @@ def directors_totals(nds)
     while nds[row_index][:movies][inner_index][:worldwide_gross].each do
       
       
+      
     
     
     
