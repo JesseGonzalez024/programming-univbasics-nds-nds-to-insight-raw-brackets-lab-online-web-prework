@@ -13,9 +13,8 @@ new_hash = {name: value}
 def directors_totals(nds)
 
   index1 = 0
-  
   while nds.each do
-  new_hash[:name] = nds[inex1]
+    nds[index1]
   
     
      
