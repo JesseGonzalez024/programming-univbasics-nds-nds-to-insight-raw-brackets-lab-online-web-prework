@@ -19,8 +19,8 @@ new_hash = {}
   index1 = 0
   movies = director[:movies]
   
-  while director[:movies]
-  
+    while 
+    
     new_hash[director[:name]] = 
     
   }   
