@@ -25,12 +25,8 @@ new_hash = {}
     index1 += 1
 
   end
- 
-  
-    
-   new_hash[director[:name]] = total
-    
-  }   
+    new_hash[director[:name]] = total
+   }   
      
   
 end
