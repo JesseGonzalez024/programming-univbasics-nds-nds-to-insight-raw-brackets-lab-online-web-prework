@@ -15,10 +15,13 @@ def directors_totals(nds)
   row_index = 0
   inner_index = 0
   
+  
   while nds.each do
     new_hash[] = nds[row_index][:name]
     
-    while nds[row_index][:movies][inner_index][]
+    while nds[row_index][:movies][inner_index][:worldwide_gross].each do
+      
+      
     
     
     
