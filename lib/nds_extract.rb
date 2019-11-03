@@ -19,7 +19,14 @@ def directors_totals(nds)
   while nds.each do
     new_hash[] = nds[row_index][:name]
     
-    
+   
+   
+    while row_index < nds.length do
+  column_index = 0
+  while column_index < nds[row_index].length do
+    inner_len = vm[row_index][column_index].length
+    inner_index = 0
+    while inner_index < inner_len do
      
       
       
