@@ -25,7 +25,7 @@ new_hash = {}
     index1 += 1
     
   end
-  
+  binding.pry
   
     
    # new_hash[director[:name]] = 
