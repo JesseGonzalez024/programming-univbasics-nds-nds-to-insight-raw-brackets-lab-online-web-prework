@@ -28,7 +28,7 @@ new_hash = {}
   binding.pry
   
     
-   # new_hash[director[:name]] = 
+   new_hash[director[:name]] = 
     
   }   
      
