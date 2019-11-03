@@ -21,7 +21,7 @@ def directors_totals(nds)
     
       while nds[index1][:movies][index2][:worldwide_gross].each
         
-        
+      end
         
   
 end
