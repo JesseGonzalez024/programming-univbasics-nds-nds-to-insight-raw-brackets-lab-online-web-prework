@@ -19,8 +19,8 @@ new_hash = {}
   
   nds.each {|director| 
   
-    new_hash[:name] == nds[index1]
-    index2 = 0
+    new_hash[director] == nds[index1]
+    
   }   
       while nds[index1][:movies][index2][:worldwide_gross]
         
