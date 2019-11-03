@@ -21,7 +21,7 @@ new_hash = {}
   movies = director[:movies]
   
   while index1 < movies.length do 
-    total += 
+    total += movies[index1][:worldwide_gross]
     
     binding.pry
   end
