@@ -8,9 +8,11 @@ pp directors_database
 
 
 
-new_hash = {name: value}
+
 
 def directors_totals(nds)
+
+
 
   index1 = 0
   total = 0 
