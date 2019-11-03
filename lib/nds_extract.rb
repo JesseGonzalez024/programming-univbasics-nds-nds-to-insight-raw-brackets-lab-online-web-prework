@@ -20,7 +20,7 @@ def directors_totals(nds)
     new_hash[] = nds[row_index][:name]
     
     while nds[row_index][:movies][inner_index][:worldwide_gross].each do
-      
+      new_hash[] = nds[row_index][:movies][inner_index][:worldwide_gross]
       
       
     
