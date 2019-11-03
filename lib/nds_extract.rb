@@ -6,11 +6,6 @@ require 'directors_database'
 
 pp directors_database
 
-
-
-
-
-
 def directors_totals(nds)
 
 new_hash = {}
