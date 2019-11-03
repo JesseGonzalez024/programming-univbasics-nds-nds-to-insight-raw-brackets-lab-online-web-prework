@@ -1,4 +1,5 @@
 require 'pp'
+require 'pry'
 
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 require 'directors_database'
@@ -19,14 +20,11 @@ new_hash = {}
   index1 = 0
   movies = director[:movies]
   
-    while 
+ binding.pry   
     
-    new_hash[director[:name]] = 
+   # new_hash[director[:name]] = 
     
   }   
-     [:movies][index2][:worldwide_gross]
-        
-      end
-        
+     
   
 end
